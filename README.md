@@ -1,4 +1,6 @@
 # BSides Nashville 
+
+[![Join the chat at https://gitter.im/ayumi-b/BSides-Nashville](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ayumi-b/BSides-Nashville?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Redesign Proposal by Ayumi Fukuda Bennett and Margaret Clinard
 
 Content taken from bsidesnash.org and bsidesneash.org/News/
