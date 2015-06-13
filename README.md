@@ -1,63 +1,51 @@
-# Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+# BSides Nashville 
+Redesign Proposal by Ayumi Fukuda Bennett and Margaret Clinard
+
+Content taken from bsidesnash.org and bsidesneash.org/News/
 
 ## Installation & Usage
     bundle install
     jekyll serve --watch
 
-_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
-    
-## Configuration
-Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
-
-```
-jekyll-incorporated/
-├── _config.yml
-├── _assets/
-    ├── stylesheets/
-        ├── main.scss
-```
-
-_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
-
-    
-## Publish to Github Pages
-1. Add your domain to _CNAME_
-2. Edit your repo address at _Rakefile_
-    
-Run rake task. **NOTE: It will deploy the generated site to _gh-pages_ branch overwriting it**    
-``` 
-rake site:publish
-```
-
-## Usage examples
-
-* Adroll Engineering http://tech.adroll.com/
-* Brace.io blog http://blog.brace.io/
-* Spark.io blog http://blog.spark.io/
-* Department of Better Technology http://blog.dobt.co/
-
 ## Authors
+Ayumi Fukuda Bennett and Margaret Clinard
+Using Jekyll-Incorporated Theme  
 
-Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
+##STACK, ETC.
+Used Jekyll to generate file
 
-**Karri Saarinen**
-
-+ [http://twitter.com/karrisaarinen](http://twitter.com/karrisaarinen)
-+ [http://github.com/ksaa](http://github.com/ksaa)
-
-**Jori Lallo**
-
-+ [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
-+ [http://github.com/jorde](http://github.com/jorilallo)
-
-## Todo:
-
-+ Documentation
-+ Less config files
-+ Better deploy scripts
-
-## Copyright and license
-
+## Copyright and license from the Jekyll Theme
 Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
 
+## To Do:
+
+### All Pages
+- Top Navigation (tabs)
+- Footer (contact/social icons, copyright)
+
+### Front Page
+-Main Logo header
+-What's Bsides (mention it's part of BSides Mid TN)
+-Leaders
+-Thank 2015 sponsors (rest of it lives on the 2015 conference page)
+-color track boxes on a div
+-contact/say hello
+
+### TAB (2015 conference items)
+
+### TAB (Blog Area)
+
+### TAB (sponsors?)
+
+
+
+##COLORS (taken from bsidesnash.org's post):
+These are colors that we should keep in mind as we design the site. More discussion on how best to incorporate all the colors needs to take place. (below from bsidesnash.org)
+
+GREEN Track is for newbie talks.  We all hear that there are not enough trained professionals. Well, let’s start growing them.  This Track is for talks targeted at those just starting out in the field, wanting to get into the field or students of technology.
+
+RED Track is for talks focused on attacks.  Tell us about what you have been researching, what cool attack you use at work, or that crazy thing you dreamed up in Hallway-con that actually worked.
+
+BLUE track is all about Defense.  We know attacks are sexy but the reality us most of us have to defend against attacks all day long.  This track is to talk about those defense techniques, building an Incidence Response team with nothing but 2 sticks and chewing gum and all other things defense.
+
+PURPLE teamers we have not forgotten you, we want to hear your talks.  Please submit to the CFP.  If your talk is more attack oriented, we will call you Red if it is more Defense, Blue, if ti is straight down the middle we will find a way.
